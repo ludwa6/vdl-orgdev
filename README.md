@@ -1,52 +1,57 @@
-# VdL Farm — Organization Network Map
+# vdl-orgdev
 
-Interactive D3.js visualization of Quinta Vale da Lama's Holacracy governance structure, powered by live data from Notion.
+The OrgDev system for **Quinta Vale da Lama, Lda.** — a Holacracy-derived governance implementation.
+Notion holds the structure; this repo holds everything else.
 
-## Architecture
+**Live org map:** https://ludwa6.github.io/vdl-orgdev/
 
-```
-Browser → GitHub Pages (static HTML/JS/D3)
-              ↓
-         Replit Proxy (Node.js/Express)
-              ↓
-         Notion API (Circles, People, Roles databases)
-```
+> Renamed from `vdl-orgmap` on 2026-08-15, when this repo became the single home for OrgDev code and
+> documentation. The old URL redirects.
 
-## Components
+---
 
-### GitHub Pages App (`index.html`)
-- Single self-contained HTML file with embedded CSS and JavaScript
-- D3.js force-directed graph visualization
-- Interactive features: drag, zoom, search, filter, detail panel
-- Falls back gracefully to static data if API proxy is unavailable
+## The one rule
 
-### Replit API Proxy (`replit-proxy/`)
-- Lightweight Express server that bridges Notion API to the browser
-- Handles CORS, data transformation, and caching
-- Endpoint: `GET /api/graph` — returns nodes and edges as JSON
-- Requires `NOTION_API_KEY` secret in Replit
+> **Every file is either *written* or *generated*. Generated files live under a `generated/` path and
+> carry a do-not-edit header. Nothing is both.**
 
-## Setup
+Drift in this project has always come from the same place: a hand-written document describing a live
+system. The schema documentation was wrong in four places within six months of being written, which
+is why it is now generated rather than maintained.
 
-### 1. Deploy the Replit Proxy
-1. Create a new Node.js Replit
-2. Upload `replit-proxy/index.js` and `replit-proxy/package.json`
-3. Add your Notion integration token as `NOTION_API_KEY` in Replit Secrets
-4. Deploy — note the URL (e.g., `https://vdl-orgmap-api.replit.app`)
+## Layout
 
-### 2. Update the App
-1. In `index.html`, update `API_URL` to your Replit deployment URL
-2. Push to GitHub, enable GitHub Pages
+| Path | What | Written or generated |
+|---|---|---|
+| `index.html` | The org map — the staff-facing surface | written |
+| `graph.json` | The org graph, from Notion. **Git history is the structural audit trail** | **generated** |
+| `docs/` | SOP, admin guide, backlog, schema context | written |
+| `docs/generated/` | Live Notion schema | **generated** |
+| `scripts/` | Build scripts and the validator | written |
+| `handbook/` | `.md` / `.docx` exports of the governance handbook (Tier 2 audit trail) | exported |
+| `archive/` | Superseded material, kept for history — **not reference** | frozen |
 
-### 3. Embed in Notion (optional)
-Add an embed block in any Notion page pointing to:
-`https://ludwa6.github.io/vdl-orgmap/`
+## The three tiers
 
-## Notion Integration Requirements
-The Notion integration needs access to these databases:
-- **Circles** (2de36f74-3758-8122-ac4a-000b520202bf)
-- **People** (c2edc051-62cd-49cb-9805-38fa64d83a4f)
-- **Roles** (2de36f74-3758-8123-8fda-000b5d5af434)
+| Tier | Content | Changes | Home |
+|---|---|---|---|
+| 1 — Constitution | Holacracy v5.0 + the Register of Adopted Variations | almost never | the Constitution |
+| 2 — Narrative | Purpose, Values, how we work, glossary | rarely, by a human | the handbook |
+| 3 — **Structure** | Circles, Roles, Domains, Accountabilities, Policies, assignments | **every Governance Meeting** | **Notion** |
 
-## License
-Internal tool for Quinta Vale da Lama.
+Tier 3 is the fast-moving layer and the only one with a machine-readable home. The map and the
+enumerated sections of the handbook are both generated from it.
+
+## Credentials
+
+`NOTION_API_KEY` lives in **GitHub Actions secrets only** — never in this repo, never in the browser.
+This repo is public and generates its data from a credentialled source; all access goes through
+`process.env` in the build scripts.
+
+## Status — 2026-08-15
+
+- `scripts/replit-proxy-DEPRECATED/` is the Express proxy currently serving the map from Replit.
+  It is being replaced by a scheduled GitHub Action that commits `graph.json`. **It stays until the
+  Action is proven against its output** — 23 nodes / 26 edges as of 2026-08-14.
+- `docs/schema-current.md` is still the hand-written February version. It is superseded by
+  `docs/generated/schema.md` as soon as `build-schema.mjs` exists.
