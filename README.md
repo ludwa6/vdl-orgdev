@@ -6,7 +6,9 @@ Notion holds the structure; this repo holds everything else.
 **Live org map:** https://ludwa6.github.io/vdl-orgdev/
 
 > Renamed from `vdl-orgmap` on 2026-08-15, when this repo became the single home for OrgDev code and
-> documentation. The old URL redirects.
+> documentation. **The GitHub repo URL redirects (301); the old Pages URL does not** —
+> `ludwa6.github.io/vdl-orgmap/` now returns 404. Renaming before the staff rollout was the point:
+> no bookmarks to break.
 
 ---
 
