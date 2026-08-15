@@ -44,6 +44,19 @@ jobs:
             if (circleCount < 2 || personCount < 2) {
               throw new Error("Refusing to commit: graph looks empty. Check the integration'"'"'s database access.");
             }
+            // Circle Lead / Circle Rep edges are resolved by dereferencing
+            // relations into the ROLES database. If the integration is not
+            // connected to Roles, Notion returns those relations empty, every
+            // lead/rep collapses to a generic "Member" edge, and the graph
+            // still looks perfectly plausible. Assert the semantics, not just
+            // the size.
+            const kinds = new Set(g.edges.map(e => e.type));
+            if (!kinds.has("leads") || !kinds.has("represents")) {
+              throw new Error(
+                "Refusing to commit: no leads/represents edges. The integration is " +
+                "almost certainly not connected to the Roles database."
+              );
+            }
           '
 
       - name: Commit if changed
