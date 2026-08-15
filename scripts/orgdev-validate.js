@@ -2,7 +2,7 @@
 /**
  * OrgDev Data Integrity Validator (US-2.3)
  * 
- * Checks for inconsistencies across the HolaFlow Notion databases:
+ * Checks for inconsistencies across the OrgDev Notion databases:
  * - Circles, Roles, People, Accountabilities, Domains, Policies
  * 
  * Usage:
