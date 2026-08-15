@@ -1,0 +1,61 @@
+name: Refresh graph.json
+
+# Regenerates the org graph from Notion and commits it if anything changed.
+# The commit history of graph.json is the organisation's structural audit
+# trail — one commit per actual change, which is why the generator writes no
+# timestamp into the file.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"      # daily, 05:17 UTC — off the hour to dodge peak
+  workflow_dispatch:           # "Run workflow" after a Governance Meeting
+
+concurrency:
+  group: refresh-graph
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build graph.json from Notion
+        env:
+          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+        run: node scripts/build-graph.mjs
+
+      - name: Sanity-check the output
+        run: |
+          node -e '
+            const g = require("./graph.json");
+            const { circleCount, personCount, edgeCount } = g.meta;
+            console.log(`circles=${circleCount} people=${personCount} edges=${edgeCount}`);
+            // A near-empty graph means Notion answered but returned nothing —
+            // an auth or permissions failure looks exactly like a tiny org.
+            // Better to fail the run than to commit an empty chart.
+            if (circleCount < 2 || personCount < 2) {
+              throw new Error("Refusing to commit: graph looks empty. Check the integration'"'"'s database access.");
+            }
+          '
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- graph.json; then
+            echo "No structural change."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add graph.json
+          git commit -m "chore: refresh graph.json from Notion
+
+          $(node -e 'const m=require("./graph.json").meta;console.log(`${m.circleCount} circles, ${m.personCount} people, ${m.edgeCount} edges`)')"
+          git push

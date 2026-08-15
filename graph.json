@@ -1,0 +1,384 @@
+{
+  "nodes": [
+    {
+      "id": "circle-0",
+      "name": "Groups & Retreats",
+      "fullName": "Groups & Retreats",
+      "purpose": "To host groups and retreats in a coherent, respectful, and regenerative way, offering integrated experiences that align accommodation, food, activities, and land stewardship.",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2ff36f7437588184b772d3e90fcb3c49"
+    },
+    {
+      "id": "circle-1",
+      "name": "Activities",
+      "fullName": "Activities",
+      "purpose": "To design and host learning, wellbeing, and creative activities that support connection with self, others, and the land, using Vale da Lama's spaces as living classrooms.",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2ff36f743758815ba395fc127aa0f97f"
+    },
+    {
+      "id": "circle-2",
+      "name": "B&B Accommodations",
+      "fullName": "B&B Accommodations",
+      "purpose": "To provide welcoming, comfortable, and regenerative accommodation that allows guests to rest, reconnect, and feel at home within the living ecosystem of Vale da Lama.",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2ff36f7437588124ae64d339ce245653"
+    },
+    {
+      "id": "circle-3",
+      "name": "Restaurant",
+      "fullName": "Restaurant",
+      "purpose": "To offer nourishing, seasonal food experiences rooted in the farm's production, embodying the Farm → Fork → Farm cycle, where food supports human health, local economy, and soil regeneration.",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2ff36f74375881e69610d90d8c080904"
+    },
+    {
+      "id": "circle-4",
+      "name": "OMG: Organic Market Garden",
+      "fullName": "OMG: Organic Market Garden",
+      "purpose": "Everything you need to be well-nourished",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2e336f743758803a9abfd914c0c78fd0"
+    },
+    {
+      "id": "circle-5",
+      "name": "HFC: Holistic Farm Care",
+      "fullName": "HFC: Holistic Farm Care",
+      "purpose": "Living Soil, growing ever-more abundant",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 2,
+      "notionUrl": "https://notion.so/2e336f74375880649143c85dfb4859bb"
+    },
+    {
+      "id": "circle-6",
+      "name": "VdL Farm",
+      "fullName": "VdL Farm",
+      "purpose": "A holarchy of richly interconnected entities",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 0,
+      "notionUrl": "https://notion.so/2e336f743758808a930bea6e793d9f2a"
+    },
+    {
+      "id": "circle-7",
+      "name": "Farm Ops",
+      "fullName": "Farm Ops",
+      "purpose": "Regenerative Organic Agriculture",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 1,
+      "notionUrl": "https://notion.so/2e336f743758806596e6f75db46e9fb3"
+    },
+    {
+      "id": "circle-8",
+      "name": "Casa Ops",
+      "fullName": "Casa Ops",
+      "purpose": "Comfort Rooted in Nature",
+      "status": "Active",
+      "nodeType": "circle",
+      "level": 1,
+      "notionUrl": "https://notion.so/2e336f743758809291bfc1952e50e230"
+    },
+    {
+      "id": "person-0",
+      "name": "Miguel",
+      "fullName": "Miguel",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/30136f74375880609ecfcaa07e17b85a"
+    },
+    {
+      "id": "person-1",
+      "name": "António",
+      "fullName": "António",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/30136f74375880cdb5c3c8df715540af"
+    },
+    {
+      "id": "person-2",
+      "name": "Ana",
+      "fullName": "Ana Maria",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/30136f7437588083b115f42581f72733"
+    },
+    {
+      "id": "person-3",
+      "name": "Pedro",
+      "fullName": "Chef Pedro",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/30136f74375880e9a146e49df49fdf02"
+    },
+    {
+      "id": "person-4",
+      "name": "Charlotte",
+      "fullName": "Charlotte",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/30136f743758806bb410c0c9339fbb41"
+    },
+    {
+      "id": "person-5",
+      "name": "Luis",
+      "fullName": "Luis Silva",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ee36f74375880d99c01f0ace01bb261"
+    },
+    {
+      "id": "person-6",
+      "name": "Henrico",
+      "fullName": "Henrico Sousa",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ee36f74375880e18e67c417a44bc52c"
+    },
+    {
+      "id": "person-7",
+      "name": "Anna",
+      "fullName": "Anna Pelegrim",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ed36f74375880acb19bd56b964c40db"
+    },
+    {
+      "id": "person-8",
+      "name": "Hugo",
+      "fullName": "Hugo Barbosa",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ed36f74375880eaa030dfdbe5c9dafa"
+    },
+    {
+      "id": "person-9",
+      "name": "Ricardo",
+      "fullName": "Ricardo Gomes",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ed36f743758804cbde3cdbea3dc8e21"
+    },
+    {
+      "id": "person-10",
+      "name": "Eunice",
+      "fullName": "Eunice",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ed36f74375880519c82fe6d5acdeff6"
+    },
+    {
+      "id": "person-11",
+      "name": "Catarina",
+      "fullName": "Catarina Shepherd",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/2ed36f74375880daa0fec38471576966"
+    },
+    {
+      "id": "person-12",
+      "name": "Nita",
+      "fullName": "Nita Barroca",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/5cf0fd8e9e404c25a84c18611e23753f"
+    },
+    {
+      "id": "person-13",
+      "name": "Walt",
+      "fullName": "Walt Ludwick",
+      "purpose": "",
+      "status": "Active",
+      "nodeType": "person",
+      "notionUrl": "https://notion.so/d9377a7483bb4df8886b1e05bdb5bbd1"
+    }
+  ],
+  "edges": [
+    {
+      "source": "circle-0",
+      "target": "circle-8",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-1",
+      "target": "circle-8",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-2",
+      "target": "circle-8",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-3",
+      "target": "circle-8",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-4",
+      "target": "circle-7",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-5",
+      "target": "circle-7",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-7",
+      "target": "circle-6",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "circle-8",
+      "target": "circle-6",
+      "type": "subcircle",
+      "label": "Sub-circle of"
+    },
+    {
+      "source": "person-2",
+      "target": "circle-2",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-3",
+      "target": "circle-3",
+      "type": "leads",
+      "label": "Circle Lead"
+    },
+    {
+      "source": "person-6",
+      "target": "circle-4",
+      "type": "leads",
+      "label": "Circle Lead"
+    },
+    {
+      "source": "person-7",
+      "target": "circle-4",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-13",
+      "target": "circle-6",
+      "type": "leads",
+      "label": "Circle Lead"
+    },
+    {
+      "source": "person-12",
+      "target": "circle-6",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-8",
+      "target": "circle-6",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-9",
+      "target": "circle-7",
+      "type": "leads",
+      "label": "Circle Lead"
+    },
+    {
+      "source": "person-8",
+      "target": "circle-7",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-11",
+      "target": "circle-8",
+      "type": "leads",
+      "label": "Circle Lead"
+    },
+    {
+      "source": "person-10",
+      "target": "circle-8",
+      "type": "represents",
+      "label": "Circle Rep"
+    },
+    {
+      "source": "person-0",
+      "target": "circle-6",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-1",
+      "target": "circle-6",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-4",
+      "target": "circle-6",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-5",
+      "target": "circle-7",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-5",
+      "target": "circle-5",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-8",
+      "target": "circle-4",
+      "type": "energizes",
+      "label": "Member"
+    },
+    {
+      "source": "person-9",
+      "target": "circle-5",
+      "type": "energizes",
+      "label": "Member"
+    }
+  ],
+  "meta": {
+    "circleCount": 9,
+    "personCount": 14,
+    "edgeCount": 26,
+    "source": "Notion API — generated by scripts/build-graph.mjs"
+  }
+}
