@@ -16,7 +16,7 @@ door, not a translation of this one.
 | You are | Read |
 |---|---|
 | New to the governance system | [`handbook/en/01_Who_We_Are_EN.md`](handbook/en/01_Who_We_Are_EN.md), then 03, 04 and the glossary in 09 |
-| A Circle Secretary | [`docs/pt/manual-do-secretario.md`](docs/pt/manual-do-secretario.md) — the working guide, in Portuguese |
+| A Circle Secretary | [`docs/en/secretary-manual.md`](docs/en/secretary-manual.md) — the working guide · [português](docs/pt/manual-do-secretario.md) (definitive) |
 | Looking for the Handbook | [`handbook/pt/`](handbook/pt/) (definitive) · [`handbook/en/`](handbook/en/) (translation) |
 | Administering Notion | [`docs/data-entry-sop.md`](docs/data-entry-sop.md), [`docs/admin-guide.md`](docs/admin-guide.md) |
 | Working on the code | the rest of this page |

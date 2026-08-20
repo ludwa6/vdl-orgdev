@@ -21,6 +21,8 @@ Governança, o mapa da organização e a estrutura em Notion que está por trás
 **Se é Secretário de um Círculo**, o documento que vai usar todas as semanas é o
 **[Manual do Secretário](docs/pt/manual-do-secretario.md)** — o que fazer depois de uma Reunião de
 Governança, o que se escreve no Registo de Decisões e onde se registam as alterações.
+Há uma versão inglesa em [`docs/en/secretary-manual.md`](docs/en/secretary-manual.md); a
+portuguesa é a que conta.
 
 **O Manual completo** está em **[`handbook/pt/`](handbook/pt/)** — dez documentos, do 01 ao 10.
 A versão inglesa está em [`handbook/en/`](handbook/en/).
