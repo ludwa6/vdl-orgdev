@@ -74,6 +74,14 @@ during the meeting** — and it is the Facilitator who runs it, not the Secretar
 
 ## 3. The Decision Log — what goes in it
 
+> ⚠️ **It does not exist yet.** The Decision Log is a Notion database that **has still to be
+> created** — verified 2026-08-20: Notion holds Roles, People, Circles, Tensions, Accountabilities,
+> Policies, Domains and Meetings, and nothing else. **Creating it comes before everything this
+> section describes**, and the design is already done — eleven fields and three views — in the
+> 2026-08-12 SOP *VdL Secretary SOP — Decision Log, Permissions & the Meeting-to-Record Workflow*.
+> This section is the summary for whoever uses it; that one is the specification for whoever
+> builds it.
+
 Four kinds of entry, and nothing else:
 
 | Kind | What you write |
@@ -87,8 +95,23 @@ On the last one: **the person who holds the Domain tells you; you log it.** One 
 **Refusals are logged just as approvals are** — a refusal is a decision, and its reasoning is
 exactly what is needed when the question comes back six months later.
 
+⚠️ **Authorising money or assets is a separate gate from permission over a Domain.** They are two
+distinct decisions: a hire may need both, and the two may sit with different people. Log both.
+
 A useful entry answers four questions: **what, who, when, and why.** The *why* is the one most
 missed later and the first to be forgotten.
+
+### The status of each entry
+
+Every entry moves through three states: **`Logged` → `Structure updated` → `Published`.**
+
+This looks like bureaucracy and is not. It makes **the gap between what was decided and what is
+actually reflected in the structure visible** — which is precisely where the system rotted last
+time, with nobody noticing.
+
+**The number to watch: how many entries have sat at `Logged` for more than a week.** If that number
+stays above zero for any length of time, the system is rotting again — and this time you watch it
+happen instead of discovering it months later.
 
 ---
 

@@ -70,6 +70,13 @@ participantes durante a reunião** — quem a conduz é o Facilitador, não o Se
 
 ## 3. O Registo de Decisões — o que lá vai
 
+> ⚠️ **Ainda não existe.** O Registo de Decisões é uma base de dados no Notion que **está por criar**
+> — verificado a 2026-08-20: o Notion tem Roles, People, Circles, Tensions, Accountabilities,
+> Policies, Domains e Meetings, e mais nada. **Criá-la é o passo anterior a tudo o que esta secção
+> descreve**, e o desenho já está feito, com onze campos e três vistas: ver a SOP de 2026-08-12,
+> *VdL Secretary SOP — Decision Log, Permissions & the Meeting-to-Record Workflow*. Esta secção é o
+> resumo para quem usa; aquela é a especificação para quem constrói.
+
 Quatro tipos de entrada, e nada mais:
 
 | Tipo | O que se escreve |
@@ -83,8 +90,24 @@ Sobre o último: **quem detém o Domínio comunica-lhe a decisão; o Secretário
 mensagem. **As recusas registam-se tal como as aprovações** — uma recusa é uma decisão, e a sua
 fundamentação é exatamente aquilo de que se precisa quando a questão regressa seis meses depois.
 
+⚠️ **Autorizar dinheiro ou bens é uma porta separada da permissão sobre um Domínio.** São duas
+decisões distintas: uma contratação pode precisar das duas, e as duas podem estar em mãos
+diferentes. Registam-se as duas.
+
 Uma entrada útil responde a quatro perguntas: **o quê, quem, quando, e porquê.** O *porquê* é o que
 mais falta faz mais tarde e o que primeiro se esquece.
+
+### O estado de cada entrada
+
+Cada entrada passa por três estados: **`Registada` → `Estrutura atualizada` → `Publicada`.**
+
+Isto parece burocracia e não é. Torna **visível a distância entre o que foi decidido e o que já está
+refletido na estrutura** — que é exatamente onde o sistema apodreceu da última vez, sem ninguém dar
+por isso.
+
+**O número a vigiar: quantas entradas estão em `Registada` há mais de uma semana.** Se esse número
+não for zero durante algum tempo, o sistema está outra vez a apodrecer — e desta vez vê-se acontecer,
+em vez de se descobrir meses depois.
 
 ---
 
