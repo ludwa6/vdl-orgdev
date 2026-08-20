@@ -5,6 +5,33 @@ Notion holds the structure; this repo holds everything else.
 
 **Live org map:** https://ludwa6.github.io/vdl-orgdev/
 
+---
+
+## Start here
+
+**Português: [README.pt.md](README.pt.md)** — the Portuguese entry point. The Handbook is a
+Portuguese document and most of the people who use it work in Portuguese; that page is the front
+door, not a translation of this one.
+
+| You are | Read |
+|---|---|
+| New to the governance system | [`handbook/en/01_Who_We_Are_EN.md`](handbook/en/01_Who_We_Are_EN.md), then 03, 04 and the glossary in 09 |
+| A Circle Secretary | [`docs/pt/manual-do-secretario.md`](docs/pt/manual-do-secretario.md) — the working guide, in Portuguese |
+| Looking for the Handbook | [`handbook/pt/`](handbook/pt/) (definitive) · [`handbook/en/`](handbook/en/) (translation) |
+| Administering Notion | [`docs/data-entry-sop.md`](docs/data-entry-sop.md), [`docs/admin-guide.md`](docs/admin-guide.md) |
+| Working on the code | the rest of this page |
+
+> ⚠️ **The map and the Handbook do not yet agree.** The Handbook describes four Circles — Anchor,
+> Operations, Casa, Regenerative Farm. The map, generated from Notion, shows nine at two levels,
+> under different names, and does not show the Anchor Circle at all. These are two portraits taken
+> at different moments, not a bug. **Reconciling them is a governance decision** and is on the
+> agenda for the first Governance Meeting. **Until then the Handbook is what holds.**
+
+**Which governs, when they disagree:** the Handbook and adopted Policies first, then the Register of
+Adopted Variations (document 05), then the [Holacracy Constitution
+v5.0](https://www.holacracy.org/constitution/5-0/) as residual. A divergence not in the Register is
+a defect, not a rule. See handbook documents 04 and 10.
+
 > Renamed from `vdl-orgmap` on 2026-08-15, when this repo became the single home for OrgDev code and
 > documentation. **The GitHub repo URL redirects (301); the old Pages URL does not** —
 > `ludwa6.github.io/vdl-orgmap/` now returns 404. Renaming before the staff rollout was the point:

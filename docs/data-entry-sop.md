@@ -1,6 +1,6 @@
 # VdL OrgDev — Standard Operating Procedure: Data Entry Checklists
 
-**Purpose:** Step-by-step checklists for all common data administration tasks in the HolaFlow Notion system.
+**Purpose:** Step-by-step checklists for all common data administration tasks in the OrgDev Notion workspace.
 
 **Last Updated:** 2026-02-09 (Sonnet 4.5)
 

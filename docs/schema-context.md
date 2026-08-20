@@ -1,4 +1,4 @@
-# OrgDev HolaFlow Database Schema — Complete Reference
+# OrgDev Notion Database Schema — Complete Reference
 
 **Last Updated:** 2026-02-07 (Opus 4.6 session)
 **Status:** Fix #1 complete, Fix #2 pending

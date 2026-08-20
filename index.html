@@ -13,6 +13,15 @@
     *{margin:0;padding:0;box-sizing:border-box}
     body{background:linear-gradient(135deg,var(--bg) 0%,#0f1729 50%,#0a1020 100%);color:var(--text);font-family:'DM Sans',system-ui,sans-serif;overflow:hidden;height:100vh;display:flex;flex-direction:column}
     .header{padding:14px 24px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;background:rgba(17,24,39,.85);backdrop-filter:blur(12px);flex-shrink:0;z-index:10}
+    .provisional{flex-shrink:0;z-index:9;display:flex;gap:10px;align-items:flex-start;padding:10px 24px;font-size:12.5px;line-height:1.5;color:#fde68a;background:rgba(180,120,20,.16);border-bottom:1px solid rgba(245,158,11,.35)}
+    .provisional strong{color:#fef3c7}
+    .provisional em{font-style:italic}
+    .provisional a{color:#fcd34d;text-decoration:underline;white-space:nowrap}
+    .provisional-mark{flex-shrink:0;font-size:14px;line-height:1.35}
+    .provisional-close{margin-left:auto;flex-shrink:0;background:none;border:none;color:#fde68a;font-size:18px;line-height:1;cursor:pointer;padding:0 2px;opacity:.6}
+    .provisional-close:hover{opacity:1}
+    .provisional.hidden{display:none}
+    @media (max-width:640px){.provisional{font-size:11.5px;padding:8px 14px}}
     .header-left{display:flex;align-items:center;gap:14px}
     .header-logo{width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,var(--circle-l0),var(--circle-l2));display:flex;align-items:center;justify-content:center;font-size:18px}
     .header h1{font-size:17px;font-weight:700;letter-spacing:-.02em}
@@ -85,6 +94,23 @@
       <div class="search-box"><span class="icon">🔍</span><input type="text" id="searchInput" placeholder="Search circles & people..." /></div>
     </div>
   </div>
+  <!-- Provisional-status notice. The Handbook describes four Circles; this map,
+       generated from Notion, shows nine. Reconciling them is a governance
+       decision, not a data fix, so the map carries the caveat rather than
+       pretending to an authority it does not have. Remove this banner when the
+       reconciliation is adopted. -->
+  <div class="provisional" id="provisionalBanner">
+    <span class="provisional-mark">⚠</span>
+    <span>
+      <strong>Provisional.</strong> This map is generated live from Notion and shows the structure
+      <em>as currently recorded</em>. The Governance Handbook describes four Circles — Anchor,
+      Operations, Casa, Regenerative Farm — and this view does not yet match it. Reconciling the two
+      is on the agenda for the first Governance Meeting. <strong>Until then the Handbook is what
+      holds.</strong>
+      <a href="https://github.com/ludwa6/vdl-orgdev/tree/main/handbook/pt">Read the Handbook →</a>
+    </span>
+    <button type="button" class="provisional-close" id="provisionalClose" aria-label="Dismiss">×</button>
+  </div>
   <div class="main">
     <div class="graph-container" id="graphContainer">
       <svg id="graphSvg"></svg>
@@ -142,6 +168,10 @@
     document.getElementById("searchInput").addEventListener("input",function(){const q=this.value.toLowerCase();if(!window._graphRefs)return;window._graphRefs.node.transition().duration(200).attr("opacity",d=>{if(!q)return 1;const name=(d.fullName||d.name||"").toLowerCase();const purpose=(d.purpose||"").toLowerCase();return name.includes(q)||purpose.includes(q)?1:.12})});
     document.querySelectorAll(".legend-item[data-filter]").forEach(item=>{item.addEventListener("click",function(){const type=this.dataset.filter;activeFilters[type]=!activeFilters[type];this.classList.toggle("disabled",!activeFilters[type]);if(graphData)renderGraph(graphData)})});
     window.addEventListener("resize",()=>{if(graphData)renderGraph(graphData)});
+    // Dismissible for the session only. Deliberately not persisted: the caveat
+    // is true every time the page loads, and a "don't show again" would let a
+    // reader forget it in exactly the situation where it matters.
+    document.getElementById("provisionalClose").addEventListener("click",()=>{document.getElementById("provisionalBanner").classList.add("hidden");if(graphData)renderGraph(graphData)});
     (async()=>{const badge=document.getElementById("statusBadge");const statusText=document.getElementById("statusText");let data;try{data=await loadData()}catch(e){console.error("Could not load graph.json:",e.message);badge.classList.remove("live");badge.classList.add("static");statusText.textContent="Could not load org data \u2014 see console";document.getElementById("loadingOverlay").classList.add("hidden");return}badge.classList.remove("static");badge.classList.add("live");statusText.textContent="From Notion \u2014 generated";renderGraph(data);setTimeout(()=>{document.getElementById("loadingOverlay").classList.add("hidden")},600)})();
   </script>
 </body>

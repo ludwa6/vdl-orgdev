@@ -1,10 +1,20 @@
-# HolaFlow Schema Documentation — Auto-Generated
+# Notion Schema — February 2026 snapshot · SUPERSEDED
 
-**Generated:** 2026-02-22T00:00:00Z  
-**Generator:** Claude (Sonnet 4.6) via Notion MCP  
-**Source:** Live Notion API
+> ⚠️ **This file is out of date and is kept for history. Do not rely on it.**
+>
+> It describes the Notion schema as it stood on **2026-02-22**, when the system was still called
+> HolaFlow. Property names and database contents have changed since — the Roles database alone now
+> carries a `Role Type` select and a `Role Status` formula this document does not mention.
+>
+> **For the live schema, query Notion.** A generated replacement at `docs/generated/schema.md` is
+> planned; until it exists, this file is the only written description and it is a historical one.
+>
+> *Its previous header claimed it was auto-generated and should not be edited by hand. That was
+> false — it has been hand-maintained since February, which is exactly how it came to be wrong in
+> four places by August. Corrected 2026-08-20.*
 
-> ⚠️ **This file is auto-generated.** Do not edit manually. Regenerate by asking Claude to query all database schemas and update this file.
+**Snapshot taken:** 2026-02-22 · **By:** Claude (Sonnet 4.6) via Notion MCP · **From:** the live
+Notion API at that date
 
 ---
 
