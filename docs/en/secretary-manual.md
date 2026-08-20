@@ -74,13 +74,13 @@ during the meeting** — and it is the Facilitator who runs it, not the Secretar
 
 ## 3. The Decision Log — what goes in it
 
-> ⚠️ **It does not exist yet.** The Decision Log is a Notion database that **has still to be
-> created** — verified 2026-08-20: Notion holds Roles, People, Circles, Tensions, Accountabilities,
-> Policies, Domains and Meetings, and nothing else. **Creating it comes before everything this
-> section describes**, and the design is already done — eleven fields and three views — in the
-> 2026-08-12 SOP *VdL Secretary SOP — Decision Log, Permissions & the Meeting-to-Record Workflow*.
-> This section is the summary for whoever uses it; that one is the specification for whoever
-> builds it.
+> ✅ **Created 2026-08-20.** The Decision Log lives in Notion, alongside Circles, Roles and the
+> rest: **[open it](https://www.notion.so/3c236f74375881229074ffbb591f96de)**. It starts empty on purpose — the 2026-08-12 SOP is explicit that a log
+> containing invented history is worth less than one that starts clean on a known date. **The first
+> Governance Meeting writes entry number one.**
+>
+> The full specification — every field, and why — is in the SOP *VdL Secretary SOP — Decision Log,
+> Permissions & the Meeting-to-Record Workflow*. This section is the summary for whoever uses it.
 
 Four kinds of entry, and nothing else:
 

@@ -70,12 +70,13 @@ participantes durante a reunião** — quem a conduz é o Facilitador, não o Se
 
 ## 3. O Registo de Decisões — o que lá vai
 
-> ⚠️ **Ainda não existe.** O Registo de Decisões é uma base de dados no Notion que **está por criar**
-> — verificado a 2026-08-20: o Notion tem Roles, People, Circles, Tensions, Accountabilities,
-> Policies, Domains e Meetings, e mais nada. **Criá-la é o passo anterior a tudo o que esta secção
-> descreve**, e o desenho já está feito, com onze campos e três vistas: ver a SOP de 2026-08-12,
-> *VdL Secretary SOP — Decision Log, Permissions & the Meeting-to-Record Workflow*. Esta secção é o
-> resumo para quem usa; aquela é a especificação para quem constrói.
+> ✅ **Criado a 2026-08-20.** O Registo de Decisões está no Notion, ao lado dos Círculos, dos Papéis
+> e dos restantes: **[abrir](https://www.notion.so/3c236f74375881229074ffbb591f96de)**. Começa vazio de propósito — a SOP de 2026-08-12 é explícita:
+> um registo com história inventada vale menos do que um que começa limpo numa data conhecida.
+> **A primeira Reunião de Governança escreve a entrada número um.**
+>
+> A especificação completa — todos os campos, e porquê — está na SOP *VdL Secretary SOP — Decision
+> Log, Permissions & the Meeting-to-Record Workflow*. Esta secção é o resumo para quem o usa.
 
 Quatro tipos de entrada, e nada mais:
 
