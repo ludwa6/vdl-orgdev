@@ -25,6 +25,7 @@ The Regenerative Farm Circle has authority over:
 - Composting, vermicomposting, and the recovery of biomass.
 - Vegetation management and fire prevention.
 - Agricultural infrastructure, equipment, machinery and tools.
+- The sale of the Quinta's produce to local markets, to visitors and to other buyers.
 
 ### Accountabilities
 
@@ -37,6 +38,8 @@ The Regenerative Farm Circle is responsible for:
 - Continuously improving soil health, increasing biodiversity, and using water efficiently and regeneratively — promoting its retention in the landscape and reducing waste.
 - Transforming the organic waste and biomass produced by Vale da Lama into organic matter, returning it to the soil to increase fertility, protect the soil, and strengthen the natural cycles of the Quinta.
 - Supplying agricultural produce to the Casa Circle according to availability and seasonality.
+- Selling the Quinta's produce to local markets, to the people who come here to buy it and to other buyers, setting prices and terms of sale.
+- Following the results of those sales and giving that information to whoever plans the crops, so that what is grown and what is sold inform each other.
 - Collaborating with the Casa Circle on crop planning, on making the most of the Quinta's produce, and on the experiences offered to guests.
 - Developing strategies for landscape management and fire prevention.
 - Ensuring the preventive maintenance of agricultural infrastructure, machinery, equipment and tools, promoting their conservation, organisation and longevity.
@@ -60,7 +63,7 @@ Organic waste, prunings, biomass and other plant-based materials are put to use 
 
 We seek to keep the soil permanently covered with organic matter or vegetation, protecting it from erosion, reducing water evaporation, increasing fertility, and strengthening the ecosystems of the Quinta.
 
-In this way we bring to life the principle *"From Garden to Plate… and from Plate to Garden"* (From Garden to Plate… and from Plate to Garden), continuously closing the natural cycles of Vale da Lama.
+In this way we bring to life the principle *"From Garden to Plate… and from Plate to Garden"*, continuously closing the natural cycles of Vale da Lama.
 
 **Regenerative Water Management**
 

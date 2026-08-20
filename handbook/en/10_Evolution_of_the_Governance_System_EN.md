@@ -20,7 +20,15 @@ Meanwhile the Holacracy Constitution has been substantially revised — from ver
 
 We say this plainly because the alternative — presenting a mature implementation we do not yet have — would make this Handbook less useful. What is described here is what we are committing to, not what we have already mastered.
 
-The Constitution we have adopted is the Holacracy Constitution, version 5.0, published at its canonical source: https://www.holacracy.org/constitution/5-0/ — the address names the version, so it will continue to point at 5.0 when later versions appear. Where this Handbook and the Constitution diverge, the Constitution prevails, together with the variations recorded in the Register of Adopted Variations (document 05).
+The Constitution we have adopted is the Holacracy Constitution, version 5.0, published at its canonical source: https://www.holacracy.org/constitution/5-0/ — the address names the version, so it will continue to point at 5.0 when later versions appear.
+
+The Constitution is the ground this Handbook was built on; the Handbook is the shape governance at Vale da Lama actually has. They are read in this order:
+
+1. **This Handbook** and the Policies adopted by the Circles.
+2. **The Register of Adopted Variations** (document 05).
+3. **The Holacracy Constitution, version 5.0**, which applies to everything the first two do not resolve.
+
+A divergence between the Handbook and the Constitution that does not appear in the Register of Adopted Variations is not a new rule: it is a defect, and it is resolved either by amending the Handbook or by adopting the variation in a Governance Meeting and entering it in the Register. The same reading order governs the Secretary's interpretations (document 04).
 
 ### How we evolve
 

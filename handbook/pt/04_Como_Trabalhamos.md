@@ -50,13 +50,57 @@ A Estratégia da Vale da Lama constitui a principal referência para estas reuni
 
 Cada tipo de reunião segue um processo próprio, descrito nos documentos específicos do Sistema de Governança da Vale da Lama.
 
-## Papéis Eleitos: Facilitador e Secretário
+## Os Papéis de Círculo
 
-Cada Círculo tem um Facilitador e um Secretário. Estes dois Papéis são eleitos pelos membros do Círculo através do Processo de Eleição Integrativa. Qualquer membro pode pedir uma eleição a qualquer momento, para escolher ou substituir qualquer um dos dois Papéis. Estes Papéis nunca são nomeados.
+Cada Círculo tem quatro Papéis próprios, definidos pela Constituição: o Líder de Círculo, o Representante do Círculo, o Facilitador e o Secretário.
+
+Não são todos preenchidos da mesma maneira. Três são eleitos pelos membros do Círculo; um é nomeado.
+
+| Papel | Como é preenchido | Por quem |
+|---|---|---|
+| Líder de Círculo | Nomeação | Pelo Líder do Círculo superior |
+| Representante do Círculo | Eleição Integrativa | Pelos membros do Círculo |
+| Facilitador | Eleição Integrativa | Pelos membros do Círculo |
+| Secretário | Eleição Integrativa | Pelos membros do Círculo |
+
+O Círculo Âncora é a exceção. O seu Líder de Círculo é **eleito** pelos Ratificadores, e não nomeado, porque não existe Círculo superior de onde a nomeação pudesse vir. Esta é uma variação que adotámos deliberadamente: está descrita na Política — Líder do Círculo Âncora e inscrita no Registo de Variações Adotadas, ambos no documento 05.
+
+Os três Papéis eleitos são escolhidos através do Processo de Eleição Integrativa. Qualquer membro pode pedir uma eleição a qualquer momento, para escolher ou substituir qualquer um deles. Estes Papéis nunca são nomeados, e quem desempenha o Papel de Líder de Círculo não pode desempenhá-los.
 
 Se o Facilitador ou o Secretário estiver por preencher ou indisponível, um substituto pode desempenhar o Papel. Por defeito, o substituto do Facilitador é o Secretário em funções, e o substituto do Secretário é o Facilitador em funções.
 
-O Círculo pode acrescentar Responsabilidades a estes dois Papéis, mas não pode alterar nem retirar o seu Propósito, nem as Responsabilidades e os Domínios que a Constituição lhes atribui.
+O Círculo pode acrescentar Responsabilidades a estes Papéis, mas não pode alterar nem retirar o seu Propósito, nem as Responsabilidades e os Domínios que a Constituição lhes atribui.
+
+### Líder de Círculo
+
+Propósito: o Propósito do próprio Círculo.
+
+O Líder de Círculo responde por tudo aquilo por que o Círculo responde e que ainda não esteja atribuído a um Papel dentro dele.
+
+Responsabilidades:
+
+- Atribuir os Papéis do Círculo às pessoas, e retirá-los quando for adequado.
+- Definir prioridades e estratégias para o Círculo.
+- Afetar os recursos do Círculo às suas várias necessidades.
+- Julgar o valor relativo dos vários esforços do Círculo, quando isso não esteja atribuído a outro Papel.
+
+O Líder de Círculo não é chefe. Não dirige o trabalho de quem desempenha um Papel: cada Papel tem autoridade própria sobre o seu Domínio, e essa autoridade não vem do Líder. O que o Líder de Círculo detém é aquilo que ainda não foi distribuído — e a forma correta de desempenhar este Papel é distribuí-lo, criando e clarificando Papéis em Reunião de Governança até restar o menos possível por atribuir.
+
+Como é preenchido: o Líder de Círculo de um Sub-Círculo é a pessoa que desempenha o Papel que esse Sub-Círculo desenvolve. Uma vez que é o Líder do Círculo superior quem atribui os Papéis desse Círculo, é dele que vem, na prática, a nomeação — e é ele quem a pode alterar a qualquer momento. Uma mesma pessoa pode desempenhar este Papel em mais do que um Círculo.
+
+### Representante do Círculo
+
+Propósito: as Tensões do Círculo que só possam ser resolvidas no Círculo superior são levadas até lá e processadas.
+
+Responsabilidades:
+
+- Procurar compreender as Tensões trazidas por quem desempenha Papéis no Círculo.
+- Discernir quais dessas Tensões devem ser processadas no Círculo superior.
+- Processar essas Tensões no Círculo superior, procurando remover aquilo que limita o Círculo.
+
+O Representante do Círculo é eleito pelos membros do Círculo e passa a ser membro do Círculo superior, com os mesmos direitos que qualquer outro membro dessa reunião. É o canal pelo qual uma dificuldade sentida na operação chega a quem tem autoridade para a remover.
+
+Quem desempenha o Papel de Líder de Círculo não pode ser o Representante do mesmo Círculo. A razão é a direção em que cada um olha: o Líder de Círculo traz ao Círculo aquilo que o Círculo superior espera dele, e o Representante leva ao Círculo superior aquilo que o Círculo não consegue resolver sozinho. São dois sentidos do mesmo canal, e a Constituição não permite que a mesma pessoa os ocupe aos dois.
 
 ### Facilitador
 
@@ -81,12 +125,20 @@ Responsabilidades:
 - Captar e publicar os resultados das Reuniões Táticas do Círculo.
 - Agendar as Reuniões de Governança e as Reuniões Táticas do Círculo e dar conhecimento a todos os membros com a devida antecedência.
 - Agendar uma Reunião de Governança extraordinária sempre que tal seja pedido.
-- Interpretar a Constituição, e tudo o que se rege sob a sua autoridade, quando tal lhe seja pedido.
-- Eliminar dos registos do Círculo qualquer decisão de governança que se conclua violar a Constituição.
+- Interpretar o Sistema de Governança da Vale da Lama, e tudo o que se rege sob a sua autoridade, quando tal lhe seja pedido.
+- Eliminar dos registos do Círculo qualquer decisão de governança que se conclua violar o Sistema de Governança da Vale da Lama.
 
 Domínio: os registos de governança do Círculo.
 
-As duas últimas Responsabilidades merecem particular atenção. O Secretário decide, quando lhe é pedido, como a Constituição deve ser interpretada, e todos se alinham com essa decisão até que o texto ou o contexto relevantes mudem. O Secretário é o intérprete da Constituição, e não um tomador de notas.
+As duas últimas Responsabilidades merecem particular atenção. O Secretário decide, quando lhe é pedido, como o Sistema de Governança deve ser interpretado, e todos se alinham com essa decisão até que o texto ou o contexto relevantes mudem. O Secretário é o intérprete do Sistema de Governança, e não um tomador de notas.
+
+**Por que ordem se lê.** Ao interpretar, o Secretário lê as nossas fontes de governança nesta ordem:
+
+1. **Este Manual** e as Políticas adotadas pelos Círculos.
+2. **O Registo de Variações Adotadas** (documento 05), onde constam as disposições da Constituição que decidimos alterar.
+3. **A Constituição da Holacracy, versão 5.0**, que se aplica a tudo o que as duas primeiras não resolvam.
+
+Fazemos Holacracy à nossa maneira, e é isso que esta ordem exprime: as nossas decisões vêm primeiro, e a Constituição é a base sobre a qual assentam e aquilo a que recorremos quando o Manual é omisso. Se o Manual divergir da Constituição num ponto que não esteja no Registo de Variações, isso não é uma regra nova — é um defeito. O Secretário assinala-o, e o Círculo corrige-o: ou o Manual é emendado, ou a variação é adotada em Reunião de Governança e inscrita no Registo.
 
 ## Registo de Decisões
 

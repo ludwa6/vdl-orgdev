@@ -48,13 +48,57 @@ The Vale da Lama Strategy is the principal reference for these meetings.
 
 Each type of meeting follows its own process, described in the specific documents of the Vale da Lama Governance System.
 
-### Elected Roles: Facilitator and Secretary
+### The Circle Roles
 
-Each Circle has a Facilitator and a Secretary. These two Roles are elected by the members of the Circle, using the Integrative Election Process. Any member may call for an election at any time, to select or replace either Role. These Roles are never appointed.
+Each Circle has four Roles of its own, defined by the Constitution: the Circle Lead, the Circle Rep, the Facilitator and the Secretary.
+
+They are not all filled the same way. Three are elected by the members of the Circle; one is appointed.
+
+| Role | How it is filled | By whom |
+|---|---|---|
+| Circle Lead | Appointment | By the Circle Lead of the broader Circle |
+| Circle Rep | Integrative Election | By the members of the Circle |
+| Facilitator | Integrative Election | By the members of the Circle |
+| Secretary | Integrative Election | By the members of the Circle |
+
+The Anchor Circle is the exception. Its Circle Lead is **elected** by the Ratifiers rather than appointed, because there is no broader Circle for an appointment to come from. This is a variation we adopted deliberately: it is set out in the Policy — Circle Lead of the Anchor Circle and recorded in the Register of Adopted Variations, both in document 05.
+
+The three elected Roles are chosen through the Integrative Election Process. Any member may call for an election at any time, to select or replace any of them. These Roles are never appointed, and whoever holds the Circle Lead Role may not hold them.
 
 If the Facilitator or the Secretary is unfilled or unavailable, a surrogate may act in the Role. By default the surrogate for the Facilitator is the acting Secretary, and the surrogate for the Secretary is the acting Facilitator.
 
-A Circle may add Accountabilities to these two Roles, but it may not amend or remove their Purpose, nor the Accountabilities and Domains the Constitution places on them.
+A Circle may add Accountabilities to these Roles, but it may not amend or remove their Purpose, nor the Accountabilities and Domains the Constitution places on them.
+
+#### Circle Lead
+
+Purpose: the Purpose of the Circle itself.
+
+The Circle Lead is accountable for everything the Circle is accountable for that is not yet held by a Role within it.
+
+Accountabilities:
+
+- Assigning the Circle's Roles to people, and removing them when appropriate.
+- Defining priorities and strategies for the Circle.
+- Allocating the Circle's resources across its various needs.
+- Judging the relative value of the Circle's various efforts, where that is not held by another Role.
+
+The Circle Lead is not a boss. They do not direct the work of those who fill Roles: each Role has its own authority over its Domain, and that authority does not come from the Lead. What the Circle Lead holds is whatever has not yet been distributed — and the right way to fill this Role is to distribute it, creating and clarifying Roles in Governance Meetings until as little as possible remains unassigned.
+
+How it is filled: the Circle Lead of a Sub-Circle is the person who fills the Role that Sub-Circle expands. Since it is the broader Circle's Lead who assigns that Circle's Roles, the appointment comes in practice from them — and they may change it at any time. One person may hold this Role in more than one Circle.
+
+#### Circle Rep
+
+Purpose: Tensions of the Circle that can only be resolved in the broader Circle are channelled there and processed.
+
+Accountabilities:
+
+- Seeking to understand the Tensions brought by those who fill Roles in the Circle.
+- Discerning which of those Tensions belong in the broader Circle.
+- Processing those Tensions in the broader Circle, seeking to remove what constrains the Circle.
+
+The Circle Rep is elected by the members of the Circle and becomes a member of the broader Circle, with the same rights as any other member of that meeting. They are the channel by which a difficulty felt in the work reaches someone with the authority to remove it.
+
+Whoever holds the Circle Lead Role may not be the Rep of the same Circle. The reason is the direction each one faces: the Circle Lead brings into the Circle what the broader Circle expects of it, and the Rep carries to the broader Circle what the Circle cannot resolve on its own. They are two directions of the same channel, and the Constitution does not allow one person to hold both.
 
 #### Facilitator
 
@@ -79,12 +123,20 @@ Accountabilities:
 - Capturing and publishing the outputs of the Circle's Tactical Meetings.
 - Scheduling the Circle's Governance Meetings and Tactical Meetings, and giving all Circle Members due notice.
 - Scheduling a special Governance Meeting when one is requested.
-- Interpreting the Constitution, and anything under its authority, upon request.
-- Striking from the Circle's records any governance decision found to violate the Constitution.
+- Interpreting the Vale da Lama Governance System, and anything under its authority, upon request.
+- Striking from the Circle's records any governance decision found to violate the Vale da Lama Governance System.
 
 Domain: the Circle's governance records.
 
-The last two Accountabilities deserve particular attention. The Secretary rules on how the Constitution is to be interpreted when asked, and everyone aligns with that ruling until the relevant text or context changes. The Secretary is the Constitution's interpreter, not a note-taker.
+The last two Accountabilities deserve particular attention. The Secretary rules on how the Governance System is to be interpreted when asked, and everyone aligns with that ruling until the relevant text or context changes. The Secretary is the Governance System's interpreter, not a note-taker.
+
+**The order in which it is read.** When interpreting, the Secretary reads our sources of governance in this order:
+
+1. **This Handbook** and the Policies adopted by the Circles.
+2. **The Register of Adopted Variations** (document 05), which sets out the provisions of the Constitution we have chosen to alter.
+3. **The Holacracy Constitution, version 5.0**, which applies to everything the first two do not resolve.
+
+We practise Holacracy in our own way, and that is what this order expresses: our own decisions come first, and the Constitution is the ground they rest on and what we fall back to where the Handbook is silent. If the Handbook diverges from the Constitution on a point that is not in the Register of Adopted Variations, that is not a new rule — it is a defect. The Secretary flags it, and the Circle resolves it: either the Handbook is amended, or the variation is adopted in a Governance Meeting and entered in the Register.
 
 ### The Decision Log
 

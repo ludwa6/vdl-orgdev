@@ -18,7 +18,15 @@ Entretanto, a Constituição da Holacracy foi profundamente revista — da vers�
 
 Dizemos isto com franqueza porque a alternativa — apresentar uma implementação madura que ainda não temos — tornaria este Manual menos útil. O que aqui está descrito é aquilo a que nos comprometemos, não aquilo que já dominamos.
 
-A Constituição que adotámos é a Constituição da Holacracy, versão 5.0, publicada na sua fonte canónica em https://www.holacracy.org/constitution/5-0/ — o endereço indica a versão, pelo que continuará a apontar para a 5.0 quando surgirem versões posteriores. Onde este Manual e a Constituição divergirem, prevalece a Constituição, com as variações inscritas no Registo de Variações Adotadas (documento 05).
+A Constituição que adotámos é a Constituição da Holacracy, versão 5.0, publicada na sua fonte canónica em https://www.holacracy.org/constitution/5-0/ — o endereço indica a versão, pelo que continuará a apontar para a 5.0 quando surgirem versões posteriores.
+
+A Constituição é a base sobre a qual este Manual foi construído; o Manual é a forma que a governança da Vale da Lama efetivamente tem. Lêem-se por esta ordem:
+
+1. **Este Manual** e as Políticas adotadas pelos Círculos.
+2. **O Registo de Variações Adotadas** (documento 05).
+3. **A Constituição da Holacracy, versão 5.0**, que se aplica a tudo o que as duas primeiras não resolvam.
+
+Uma divergência entre o Manual e a Constituição que não conste do Registo de Variações não é uma regra nova: é um defeito, e resolve-se emendando o Manual ou adotando a variação em Reunião de Governança e inscrevendo-a no Registo. A mesma ordem de leitura vale para as interpretações do Secretário (documento 04).
 
 ## Como evoluímos
 

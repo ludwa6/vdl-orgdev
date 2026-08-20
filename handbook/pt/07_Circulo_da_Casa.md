@@ -22,6 +22,7 @@ O Círculo da Casa tem autoridade sobre:
 - A piscina, o spa e os jardins.
 - A operação diária da Casa.
 - Os equipamentos e recursos afetos à Casa.
+- O sítio web da Vale da Lama.
 
 ## Responsabilidades
 
@@ -29,7 +30,7 @@ Compete ao Círculo da Casa:
 
 - Proporcionar uma experiência de hospitalidade autêntica que reflita o Propósito, a Missão, a Visão, os Valores e os Princípios Orientadores da Vale da Lama.
 - Gerir o alojamento da Casa da Vale da Lama.
-- Gerir o Restaurante "ama".
+- Gerir o Restaurante "ama", dando vida ao princípio "Da Horta ao Prato… e do Prato à Horta".
 - Receber hóspedes, famílias, grupos e participantes em retiros, workshops, eventos e outros programas.
 - Gerir as reservas e a utilização dos espaços da Casa.
 - Garantir elevados padrões de hospitalidade, limpeza, segurança e qualidade.
@@ -38,6 +39,7 @@ Compete ao Círculo da Casa:
 - Coordenar a experiência dos visitantes desde o primeiro contacto até ao regresso a casa, promovendo relações duradouras com quem visita a Vale da Lama.
 - Trabalhar em estreita colaboração com o Círculo da Quinta Regenerativa para integrar a agricultura regenerativa na experiência da Casa.
 - Promover a utilização dos produtos da Quinta da Vale da Lama, privilegiando a produção própria e os produtos locais e sazonais.
+- Manter e desenvolver o sítio web da Vale da Lama, assegurando que a informação publicada está correta e atualizada, em articulação com o Papel de Marketing.
 - Colaborar com os restantes Círculos para proporcionar uma experiência integrada da Vale da Lama.
 - Promover a melhoria contínua da operação da hospitalidade.
 

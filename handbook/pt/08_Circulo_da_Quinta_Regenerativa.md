@@ -23,6 +23,7 @@ O Círculo da Quinta Regenerativa tem autoridade sobre:
 - A compostagem, a vermicompostagem e a valorização da biomassa.
 - A gestão da vegetação e a prevenção de incêndios.
 - As infraestruturas, equipamentos, máquinas e ferramentas agrícolas.
+- A venda dos produtos da Quinta a mercados locais, a visitantes e a outros compradores.
 
 ## Responsabilidades
 
@@ -35,6 +36,8 @@ Compete ao Círculo da Quinta Regenerativa:
 - Melhorar continuamente a saúde do solo, aumentar a biodiversidade e utilizar a água de forma eficiente e regenerativa, promovendo a sua retenção na paisagem e reduzindo o desperdício.
 - Transformar os resíduos orgânicos e a biomassa produzidos pela Vale da Lama em matéria orgânica, devolvendo-os ao solo para aumentar a sua fertilidade, protegê-lo e fortalecer os ciclos naturais da Quinta.
 - Fornecer produtos agrícolas ao Círculo da Casa de acordo com a disponibilidade e a sazonalidade.
+- Vender os produtos da Quinta aos mercados locais, às pessoas que nos visitam para os comprar e a outros compradores, definindo os preços e as condições de venda.
+- Acompanhar o resultado das vendas e dar essa informação a quem planeia as culturas, para que aquilo que se produz e aquilo que se vende se informem mutuamente.
 - Colaborar com o Círculo da Casa no planeamento das culturas, na valorização dos produtos da Quinta e nas experiências proporcionadas aos hóspedes.
 - Desenvolver estratégias de gestão da paisagem e prevenção de incêndios.
 - Assegurar a manutenção preventiva das infraestruturas, máquinas, equipamentos e ferramentas agrícolas, promovendo a sua conservação, organização e longevidade.

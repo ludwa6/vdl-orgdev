@@ -18,12 +18,13 @@ The Casa Circle has authority over:
 
 - Casa Vale da Lama.
 - The accommodation.
-- The restaurant *"From Garden to Plate… and from Plate to Garden"* (From Garden to Plate… and from Plate to Garden).
+- The restaurant *ama*.
 - Bookings.
 - The guest and visitor experience.
 - The swimming pool, the spa and the gardens.
 - The day-to-day operation of the Casa.
 - The equipment and resources assigned to the Casa.
+- The Vale da Lama website.
 
 ### Accountabilities
 
@@ -31,7 +32,7 @@ The Casa Circle is responsible for:
 
 - Providing an authentic hospitality experience that reflects the Purpose, the Mission, the Vision, the Values and the Guiding Principles of Vale da Lama.
 - Managing the accommodation at Casa Vale da Lama.
-- Managing the restaurant *"From Garden to Plate… and from Plate to Garden"*.
+- Managing the restaurant *ama*, bringing to life the principle *"From Garden to Plate… and from Plate to Garden"*.
 - Receiving guests, families, groups and participants in retreats, workshops, events and other programmes.
 - Managing bookings and the use of the Casa's spaces.
 - Ensuring high standards of hospitality, cleanliness, safety and quality.
@@ -40,6 +41,7 @@ The Casa Circle is responsible for:
 - Coordinating the visitor experience from first contact through to the return home, fostering lasting relationships with those who visit Vale da Lama.
 - Working in close collaboration with the Regenerative Farm Circle to integrate regenerative agriculture into the Casa experience.
 - Promoting the use of produce from Quinta Vale da Lama, giving preference to our own production and to local and seasonal products.
+- Maintaining and developing the Vale da Lama website, ensuring the information published there is correct and current, in coordination with the Marketing Role.
 - Collaborating with the other Circles to provide an integrated Vale da Lama experience.
 - Promoting the continuous improvement of hospitality operations.
 

@@ -77,7 +77,7 @@ The Circle Lead of the Anchor Circle may not define or revise the Strategy of th
 
 The Annual Strategy Consultation is held each November. It is convened by the Secretary of the Anchor Circle, who gives all participants notice of the date and duration. Participants are all members of the Anchor Circle and all members of the Operations Circle, together with any other person invited by either Circle.
 
-The Consultation is structured so that every participant has the opportunity to be heard, and is run by an external professional meeting facilitator engaged for the purpose. The Annual Strategy Consultation is not a Governance Meeting and produces no governance outputs. Its outcome is recorded by the Secretary of the Anchor Circle.
+The Consultation is structured so that every participant has the opportunity to be heard, and is ideally run by an external professional meeting facilitator engaged for the purpose. The Annual Strategy Consultation is not a Governance Meeting and produces no governance outputs. Its outcome is recorded by the Secretary of the Anchor Circle.
 
 #### Policy — Amendment of the Constitution
 

@@ -74,7 +74,7 @@ O Líder de Círculo do Círculo Âncora não pode definir nem rever a Estratég
 
 A Consulta Anual de Estratégia realiza-se em novembro de cada ano. É convocada pelo Secretário do Círculo Âncora, que dá a todos os participantes conhecimento da data e da duração. Participam todos os membros do Círculo Âncora e todos os membros do Círculo de Operações, bem como qualquer outra pessoa convidada por qualquer um dos dois Círculos.
 
-A Consulta é estruturada de forma a que todos os participantes tenham oportunidade de ser ouvidos e é conduzida por um facilitador de reuniões profissional externo, contratado para o efeito. A Consulta Anual de Estratégia não é uma Reunião de Governança e não produz resultados de governança. O seu resultado é registado pelo Secretário do Círculo Âncora.
+A Consulta é estruturada de forma a que todos os participantes tenham oportunidade de ser ouvidos e é idealmente conduzida por um facilitador de reuniões profissional externo, contratado para o efeito. A Consulta Anual de Estratégia não é uma Reunião de Governança e não produz resultados de governança. O seu resultado é registado pelo Secretário do Círculo Âncora.
 
 ### Política — Alteração da Constituição
 
