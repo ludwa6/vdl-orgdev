@@ -1,0 +1,24 @@
+.DS_Store
+
+# Bram local state — per-machine, never shared
+.bram.json
+.claude/
+CLAUDE.md
+resources/
+
+# Bram Setup rewrites AGENTS.md's <!-- bram:start --> block on every upgrade.
+# In THIS repo the file is nothing but that block — zero lines outside the
+# markers — so there is no human-authored contract to preserve and tracking it
+# would commit pure machine scaffolding that goes dirty again on the next
+# upgrade. Ignoring it is what actually gives this repo a clean `git status`.
+#
+# This differs from ludwa6/vdl-web on purpose. There, AGENTS.md IS tracked,
+# because it carries Walt's own Planner/Coder contract; only the bram block is
+# reverted by hand (standing instruction in that repo's issue #8). If a
+# Planner/Coder contract is ever written for this repo, delete this line and
+# adopt the vdl-web rule instead: track the file, exclude the block.
+#
+# Second reason, specific to this repo: it is public and its readers are the
+# organisation's secretaries. A root-level file of agent worklist-gate
+# instructions is noise for that audience.
+AGENTS.md
